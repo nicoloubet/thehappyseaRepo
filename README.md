@@ -1,6 +1,6 @@
 ## thehappysea
 ***Overview:***  
-Developed my first web application utilizing MVC | .NET CORE 3.0 & Entity Framework.
+Develop and complete my first web application utilizing MVC | .NET CORE 3.0 & Entity Framework.
 ## Motivation  
 My motivation behind this project was to fully complete my first ever web application from scratch. 
 ## Build Status  
